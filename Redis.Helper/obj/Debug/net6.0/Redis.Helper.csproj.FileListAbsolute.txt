@@ -1,5 +1,0 @@
-C:\Projects\Redis.Helper\Redis.Helper\obj\Debug\net6.0\Redis.Helper.csproj.AssemblyReference.cache
-C:\Projects\Redis.Helper\Redis.Helper\obj\Debug\net6.0\Redis.Helper.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projects\Redis.Helper\Redis.Helper\obj\Debug\net6.0\Redis.Helper.AssemblyInfoInputs.cache
-C:\Projects\Redis.Helper\Redis.Helper\obj\Debug\net6.0\Redis.Helper.AssemblyInfo.cs
-C:\Projects\Redis.Helper\Redis.Helper\obj\Debug\net6.0\Redis.Helper.csproj.CoreCompileInputs.cache
